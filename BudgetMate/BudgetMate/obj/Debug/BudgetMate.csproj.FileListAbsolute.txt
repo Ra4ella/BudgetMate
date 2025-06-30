@@ -1,0 +1,17 @@
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\BudgetMate.exe.config
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\BudgetMate.exe
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\BudgetMate.pdb
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\Dapper.dll
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\Dapper.xml
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.csproj.AssemblyReference.cache
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.csproj.CoreCompileInputs.cache
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.csproj.Up2Date
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.exe
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.pdb
+E:\Шаг КУЦЕНКО\С#\BudgetMate\BudgetMate\obj\Debug\BudgetMate.exe.config

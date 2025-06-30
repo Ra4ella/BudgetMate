@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E405854-99A0-4A3C-8FA9-2D5372AE2C09}|BudgetMate\\BudgetMate.csproj|e:\\\u0448\u0430\u0433 \u043A\u0443\u0446\u0435\u043D\u043A\u043E\\\u0441#\\budgetmate\\budgetmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E405854-99A0-4A3C-8FA9-2D5372AE2C09}|BudgetMate\\BudgetMate.csproj|solutionrelative:budgetmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E405854-99A0-4A3C-8FA9-2D5372AE2C09}|BudgetMate\\BudgetMate.csproj|E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\budgetmate\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E405854-99A0-4A3C-8FA9-2D5372AE2C09}|BudgetMate\\BudgetMate.csproj|solutionrelative:budgetmate\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\BudgetMate\\Models.cs",
+              "RelativeDocumentMoniker": "BudgetMate\\Models.cs",
+              "ToolTip": "E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\BudgetMate\\Models.cs",
+              "RelativeToolTip": "BudgetMate\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:53:01.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\BudgetMate\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetMate\\Program.cs",
+              "ToolTip": "E:\\\u0428\u0430\u0433 \u041A\u0423\u0426\u0415\u041D\u041A\u041E\\\u0421#\\BudgetMate\\BudgetMate\\Program.cs",
+              "RelativeToolTip": "BudgetMate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:51:16.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
