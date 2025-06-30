@@ -284,8 +284,8 @@ namespace BudgetMate
 
                             if (choice3 == 1)
                             {
-                                string topSpending = "SELECT f.Name AS FamilyName, u.Username, t.Amount, t.Type, t.Category, t.CreatedAt FROM Transactions t JOIN Users u ON t.UserId = u.Id JOIN Families f ON t.FamilyId = f.Id WHERE Type = @type ORDER BY Amount DESC";
-                                var result_topSpending = connection.Query(topSpending, new { type = "Spending" });
+                                string topSpending = "SELECT f.Name AS FamilyName, u.Username, t.Amount, t.Type, t.Category, t.CreatedAt FROM Transactions t JOIN Users u ON t.UserId = u.Id JOIN Families f ON t.FamilyId = f.Id WHERE Type = @type AND FamilyId = @familyid ORDER BY Amount DESC";
+                                var result_topSpending = connection.Query(topSpending, new { type = "Spending", familyid = familyId });
                                 Console.WriteLine($"Family Name | Username | Amount ($) | Type | Category | CreatedAt");
 
                                 foreach (var top in result_topSpending)
@@ -299,7 +299,7 @@ namespace BudgetMate
                                 string checkBalance = @"SELECT SUM(CASE WHEN Type = 'Income' THEN Amount WHEN Type = 'Spending' THEN -Amount ELSE 0 END) AS Balance FROM Transactions WHERE FamilyId = @FamilyId AND CreatedAt BETWEEN @StartDate AND @EndDate";
                                 var result_balance = connection.ExecuteScalar<decimal>(checkBalance, new { FamilyId = familyId, StartDate = DateTime.Now.AddDays(-7), EndDate = DateTime.Now });
                                 Console.WriteLine($"Balance in last week: {result_balance}$");
-                            }
+                            }                                                                                                   
                             if (choice3 == 3)
                             {
                                 string everyMember = "SELECT f.Name AS FamilyName, u.Username, t.Amount, t.Type, t.Category, t.CreatedAt FROM Transactions t JOIN Users u ON t.UserId = u.Id JOIN Families f ON t.FamilyId = f.Id WHERE FamilyId = @familyID";
